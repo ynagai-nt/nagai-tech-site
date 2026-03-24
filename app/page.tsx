@@ -20,7 +20,7 @@ export default function Home() {
         {/* リンク（適宜自分のものに書き換えてください） */}
         <div className="flex justify-center space-x-6 pt-4 text-sm font-semibold text-slate-400">
           <a href="https://github.com/ynagai-nt" className="hover:text-slate-900 transition-colors">GitHub</a>
-          <a href="mailto:contact@nagai-tech.com" className="hover:text-slate-900 transition-colors">Contact</a>
+          <a href="mailto:y.nagai@nagai-tech.com" className="hover:text-slate-900 transition-colors">Contact</a>
         </div>
       </div>
 
